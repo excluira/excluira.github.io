@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css?family=Lobster');
+body{	
+font-family: 'Lobster', cursive;
+ font-family: 1.5em !important;
+ background-color: black !important;
+ padding: 5px;
+}
+.jumbotron{
+	border-radius: 0px !important;
+}
+li{
+	padding: 5px;
+}
+.fundo--tomato{
+	background-color: crimson !important;
+}
+th,td{
+border: 1px solid black !important
+}
+
+.gradiente { 
+background-image: linear-gradient(to left, #D8D8D8, #C0C0C0)
+ }
+ .h1{
+ 	color: white;
+ }
